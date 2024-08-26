@@ -19,4 +19,4 @@ This project contains a Telegram bot that handles various commands and messages.
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/uni123234/telegram_bot.git
